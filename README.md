@@ -2,7 +2,7 @@
 this simple app create using react native. (http request app) for your practice. run on our ios/android 
 
 
-requirement:
+requirement:  
 nodeJs  
 npm  
 react-native-cli  
