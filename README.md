@@ -1,8 +1,8 @@
 # Albumz-using-React-native
-this simple app create using react native. (http request app) for your practice. run on our ios/android 
+This simple app create using react native. (http request app) for your practice. run on our ios/android 
 
 
-requirement:  
+Requirement:  
 nodeJs  
 npm  
 react-native-cli  
