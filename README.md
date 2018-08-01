@@ -3,9 +3,9 @@ this simple app create using react native. (http request app) for your practice.
 
 
 requirement:
-nodeJs
-npm
-react-native-cli
+nodeJs  
+npm  
+react-native-cli  
 emulator/simulator
 
 
